@@ -35,15 +35,6 @@ Welcome to my GitHub! I'm passionate about building real-world systems that inte
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
 
----
-
-## 📈 GitHub Stats
-
-## <div align="center">
- ## <img src="https://github-readme-stats.vercel.app/api?username=IT21233494&show_icons=true&theme=github_dark" width="47%"/>
- ## <img src="https://github-readme-streak-stats.herokuapp.com/?user=IT21233494&theme=github-dark&hide_border=false" width="47%"/>
-  ## <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IT21233494&layout=compact&theme=github_dark" width="47%"/>
-## </div>
 
 ---
 
