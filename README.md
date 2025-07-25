@@ -1,4 +1,3 @@
-# Mindulee-Wickramasinghe
 # 👋 Hello there! I'm Mindulee Wickramasinghe
 
 ### 🎓 Undergraduate | 💻 Developer | 🧠 AI & ML Enthusiast | ☁️ Cloud Practitioner
