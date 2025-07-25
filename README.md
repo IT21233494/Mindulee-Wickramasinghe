@@ -60,8 +60,8 @@ Welcome to my GitHub! I'm passionate about building real-world systems that inte
 
 ## 📬 Let's Connect
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/rashmindu)
-- 📫 Email: rashmindu@example.com
+- 🌐 [LinkedIn](www.linkedin.com/in/mindulee-wickramasinghe)
+- 📫 Email: minduleewickramasinghe@gmail.com
 - 💼 Portfolio (Coming soon...)
 
 ---
